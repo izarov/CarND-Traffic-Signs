@@ -1,0 +1,2 @@
+model_checkpoint_path: "thenet"
+all_model_checkpoint_paths: "thenet"
